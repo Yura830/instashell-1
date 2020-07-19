@@ -1,1 +1,3 @@
 # instashell
+
+Author:thelinuxchoice
